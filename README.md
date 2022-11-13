@@ -12,3 +12,8 @@ Ce sont des projets simples, me permettant de me familiariser avec l'outil.
 | Un banc | ❌ |
 | Une porte | ❌ |
 | Une fenêtre | ❌ |
+
+## License
+
+Ces projets sont gratuits.
+Sentez-vous libre de les consulter et/ou copier.
